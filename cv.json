@@ -1,175 +1,188 @@
 {
   "basics": {
     "name": "Andres Felipe Vela Florez",
-    "label": "Estudiante de Ingenieria en Sistemas",
+    "label": "Estudiante de Ingeniería en Sistemas",
     "image": "https://media.licdn.com/dms/image/D5603AQFj8LBLAVWQLQ/profile-displayphoto-shrink_200_200/0/1674316438120?e=1712188800&v=beta&t=an6jd9y3oy0pCItlmxJWsxiS_9XlK2HAkIFvo7Yglks",
     "email": "andresfelipevelaflorez@gmail.com",
     "phone": "",
     "url": "http://andresfelipevelaflorez.net",
     "summary": "Soy un estudiante de ingeniería en sistemas residente en Cali, Colombia, con experiencia como agente de call center. Mi transición refleja mi pasión por la tecnología y el código abierto. En mi portafolio comparto proyectos y contribuciones que resaltan mi progreso y compromiso con el aprendizaje continuo durante este apasionante recorrido profesional.",
     "location": {
-      "address": "",
-      "postalCode": "0000",
-      "city": "Cali",
-      "countryCode": "CO",
-      "region": "Colombia"
+        "address": "",
+        "postalCode": "0000",
+        "city": "Cali",
+        "countryCode": "CO",
+        "region": "Colombia"
     },
     "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "andresvelaflorez",
-        "url": "https://www.linkedin.com/in/andresvelaflorez/"
-      },
-      {
-        "network": "GitHub",
-        "username": "andrespick",
-        "url": "https://github.com/andrespick"
-      }
+        {
+            "network": "LinkedIn",
+            "username": "andresvelaflorez",
+            "url": "https://www.linkedin.com/in/andresvelaflorez/"
+        },
+        {
+            "network": "GitHub",
+            "username": "andrespick",
+            "url": "https://github.com/andrespick"
+        }
     ]
-  },
-  "work": [
+},
+"work": [
     {
-      "name": "Tlmark",
-      "position": "Agente Callcenter",
-      "url": "https://www.tlmark.com/",
-      "startDate": "2022-05-16",
-      "endDate": "2023-05-05",
-      "summary": "Agente callcenter para una importante compañía de telecomunicaciones de Colombia, los últimos tres meses hice un cambio de cargo a BackOffice administrativo, donde pude desempeñar labores de analista de datos y big data",
-      "highlights": [
-        "Started the company"
-      ]
+        "name": "Tlmark",
+        "position": "Agente Callcenter",
+        "url": "https://www.tlmark.com/",
+        "startDate": "2022-05-16",
+        "endDate": "2023-05-05",
+        "summary": "Agente de call center para una importante compañía de telecomunicaciones de Colombia. Durante los últimos tres meses, realicé un cambio de cargo a BackOffice administrativo, donde pude desempeñar labores de analista de datos y big data.",
+        "highlights": [
+            "Inicié en la compañía"
+        ]
     }
-  ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Institución Universitaria Antonio Jose Camacho ",
-    "url": "https://www.uniajc.edu.co/",
-    "area": "Ingeniero de Sistemas",
-    "studyType": "Bachelor",
-    "startDate": "2023-06-06",
-    "endDate": null,
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [
+],
+"volunteer": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Intermedio",
-      "keywords": [
-        "Desarrollo aplicaciones", "Big data"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermedio",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermedio",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermedio",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+        "organization": "Organización",
+        "position": "Voluntario",
+        "url": "https://organization.com/",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "Descripción...",
+        "highlights": [
+            "Galardonado como 'Voluntario del Mes'"
+        ]
     }
-  ],
-  "languages": [
+],
+"education": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+        "institution": "Institución Universitaria Antonio Jose Camacho",
+        "url": "https://www.uniajc.edu.co/",
+        "area": "Ingeniería de Sistemas",
+        "studyType": "Licenciatura",
+        "startDate": "2023-06-06",
+        "endDate": null,
+        "score": "4.0",
+        "courses": [
+            "DB1101 - SQL Básico"
+        ]
+    }
+],
+"awards": [
+    {
+        "title": "Premio",
+        "date": "2014-11-01",
+        "awarder": "Compañía",
+        "summary": "No hay cuchara."
+    }
+],
+"certificates": [
+    {
+        "name": "Certificado",
+        "date": "2021-11-07",
+        "issuer": "Compañía",
+        "url": "https://certificate.com"
+    }
+],
+"publications": [
+    {
+        "name": "Publicación",
+        "publisher": "Compañía",
+        "releaseDate": "2014-10-01",
+        "url": "https://publication.com",
+        "summary": "Descripción..."
+    }
+],
+"skills": [
+    {
+        "name": "HTML",
+        "level": "Experto",
+        "keywords": [
+            "Desarrollo Web", "Frontend"
+        ]
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [
-    {
-      "name": "Copia-google",
-      "description": "Copia de la pagina principal de google en html y css vanilla como ejersicio de un curso de platzi",
-      "highlights": [
-        "Html y Css vanilla",
-        "Aprendizaje"
-      ],
-      "url": "https://andrespick.github.io/copia-google/#",
-      "github" : "https://github.com/andrespick/andrespick.github.io/tree/main/copia-google"
+        "name": "CSS",
+        "level": "Experto",
+        "keywords": [
+            "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
     },
     {
-      "name": "QR-GENERATOR",
-      "isActive": true,
-      "description": "Generador de codigos QR, proyecto echo en Python para apredisaje de librerias Qrcode, Pillow y Tkinter ",
-      "highlights": [
-        "Python",
-        "Aprendizaje",
-        "Terminado"
-      ],
-      "url": "https://github.com/andrespick/QR-GENERATOR",
-      "github" : "https://github.com/andrespick/QR-GENERATOR"
+        "name": "Python",
+        "level": "Intermedio",
+        "keywords": [
+            "Desarrollo de aplicaciones", "Big data"
+        ]
+    },
+    {
+        "name": "MySQL",
+        "level": "Intermedio",
+        "keywords": [
+            "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+    },
+    {
+        "name": "Git",
+        "level": "Intermedio",
+        "keywords": [
+            "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+    },
+    {
+        "name": "GitHub",
+        "level": "Intermedio",
+        "keywords": [
+            "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
     }
-  ]
+],
+"languages": [
+    {
+        "language": "Español",
+        "fluency": "Hablante nativo"
+    },
+    {
+        "language": "Inglés",
+        "fluency": "Avanzado"
+    }
+],
+"interests": [
+    {
+        "name": "Vida Silvestre",
+        "keywords": [
+            "Hurones",
+            "Unicornios"
+        ]
+    }
+],
+"references": [
+    {
+        "name": "Jane Doe",
+        "reference": "Referencia..."
+    }
+],
+"projects": [
+    {
+        "name": "Copia-google",
+        "description": "Copia de la página principal de Google en HTML y CSS vanilla como ejercicio de un curso de Platzi.",
+        "highlights": [
+            "HTML y CSS vanilla",
+            "Aprendizaje"
+        ],
+        "url": "https://andrespick.github.io/copia-google/#",
+        "github": "https://github.com/andrespick/andrespick.github.io/tree/main/copia-google"
+    },
+    {
+        "name": "QR-GENERATOR",
+        "isActive": true,
+        "description": "Generador de códigos QR, proyecto hecho en Python para aprender las librerías Qrcode, Pillow y Tkinter.",
+        "highlights": [
+            "Python",
+            "Aprendizaje",
+            "Terminado"
+        ],
+        "url": "https://github.com/andrespick/QR-GENERATOR",
+        "github": "https://github.com/andrespick/QR-GENERATOR"
+    }
+]
 }
-
